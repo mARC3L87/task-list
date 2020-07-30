@@ -5,7 +5,6 @@ const taskInput = document.querySelector('#task');
 const taskList = document.querySelector('.collection');
 const filter = document.querySelector('#filter');
 const clearBtn = document.querySelector('.clear-tasks');
-
 //Load all event listeners
 loadEventListeners();
 
